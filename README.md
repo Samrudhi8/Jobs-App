@@ -7,8 +7,7 @@ The interface consists of:-
   Job Details Screen
   Search Functionality 
 
-The backend is Integrated with RapidAPI:-
-https://rapidapi.com/?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
+The backend is Integrated with RapidAPI
 
 Some of its cool features are as:-
 * User-Friendly Interface: Jobs-App's intuitive and aesthetically pleasing interface ensures a smooth and delightful user experience. Navigate effortlessly through the app and access essential features with ease.
